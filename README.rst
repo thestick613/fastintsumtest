@@ -5,7 +5,8 @@ gennr.py generate 2 milion numbers
 
 Normal way is still fastest:
 
-```
+.. code-block:: bash
+
 	python
 	4296272350459355
 	
@@ -42,4 +43,3 @@ Normal way is still fastest:
 	sys	0m0.013s
 	============
 
-```
