@@ -1,12 +1,12 @@
-gennr.py generate 2 milion numbers
-1.c add them using a theoretical optimization
-2.c add them using normal way
-1extreme.c add them using the same stragegy from 1.c, but unroll the loop.
-
-Normal way is still fastest:
-
 .. code-block:: bash
 
+	gennr.py generate 2 milion numbers
+	1.c add them using a theoretical optimization
+	2.c add them using normal way
+	1extreme.c add them using the same stragegy from 1.c, but unroll the loop.
+
+	Normal way is still fastest:
+	
 	python
 	4296272350459355
 	
